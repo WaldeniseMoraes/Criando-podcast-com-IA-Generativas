@@ -1,9 +1,15 @@
 # Projeto Podcast Gerado por I.As
-![_611a2c8d-af34-4524-842b-dba5bfc12dad](https://github.com/WaldeniseMoraes/Criando-podcast-com-IA-Generativas/assets/161647255/9f5e79ce-5bd4-42d0-b2bb-6bd146fb751a)
+
+![_611a2c8d-af34-4524-842b-dba5bfc12dad](https://github.com/WaldeniseMoraes/Criando-podcast-com-IA-Generativas/assets/161647255/0963d6fa-e4db-4129-bd86-3ec816a573ee)
+
+
+Veja o Resultado:
+
+[Podcast](https://youtu.be/o83qJT9j0L8)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Utiliza prompts para gerar cada etapa do processo criativo.
 
 # 💻Tecnologias utilizadas no projeto
 * [ChatGPT](https://chat.openai.com/)
